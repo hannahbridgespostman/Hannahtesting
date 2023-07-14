@@ -38,7 +38,6 @@
 									],
 									"variable": [
 										{
-											"id": "309a13d2-4606-4422-8cad-ad3584108967",
 											"key": "spacecraftId",
 											"value": "<string>"
 										}
@@ -68,7 +67,6 @@
 											],
 											"variable": [
 												{
-													"id": "309a13d2-4606-4422-8cad-ad3584108967",
 													"key": "spacecraftId",
 													"value": "<string>"
 												}
@@ -109,7 +107,6 @@
 											],
 											"variable": [
 												{
-													"id": "309a13d2-4606-4422-8cad-ad3584108967",
 													"key": "spacecraftId",
 													"value": "<string>"
 												}
@@ -150,7 +147,6 @@
 											],
 											"variable": [
 												{
-													"id": "309a13d2-4606-4422-8cad-ad3584108967",
 													"key": "spacecraftId",
 													"value": "<string>"
 												}
@@ -202,7 +198,8 @@
 		{
 			"id": "1c172421-c62b-4236-b837-b8b86f343384",
 			"key": "baseUrl",
-			"value": "/"
+			"value": "/",
+			"type": "any"
 		}
 	]
 }
