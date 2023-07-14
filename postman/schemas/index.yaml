@@ -7,7 +7,7 @@ info:
 paths:
   /spacecrafts/{spacecraftId}:
     parameters:
-      - name: spacecraftId
+      - name: spacecraftId Hello Hannah
         description: The unique identifier of the spacecraft
         in: path
         required: true
